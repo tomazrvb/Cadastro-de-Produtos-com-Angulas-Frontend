@@ -1,0 +1,14 @@
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 360px;
+    
+}
+
+.mainCard{
+    margin-bottom: 10px;
+}
+
+button {
+    margin-right: 10px;
+}
